@@ -1,0 +1,3 @@
+PUBLIC_HEALTH_ALERT = '''
+¡Hola tod@s! Somos tus amigos de PUENTE y queremos que sepan que para nosotros es muy importante saber que están tomando las medidas necesarias para evitar contraer el coronavirus. Por favor sigan las reglas emitidas por las autoridades durante esta etapa de emergencia: laven sus manos con suficiente agua y jabón, quédense en la casa y mantén la calma. Gracias y Dios le bendiga.
+'''
