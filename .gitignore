@@ -1,7 +1,5 @@
-venv/
-
-env.py
-
-message.py
 
 data.csv
+env.py
+message.py
+venv/
