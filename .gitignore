@@ -3,3 +3,7 @@ data.csv
 env.py
 message.py
 venv/
+
+__pycache__
+
+.vscode
