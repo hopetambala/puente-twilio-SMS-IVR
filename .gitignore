@@ -1,10 +1,9 @@
-
-data.csv
-env.py
-message.py
 venv/
 
-__pycache__
+data.csv
 
-.vscode
-.DS_Store
+env.py
+
+message.py
+
+__pycache__/
